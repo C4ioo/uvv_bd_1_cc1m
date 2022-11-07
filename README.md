@@ -4,14 +4,19 @@ GitHub Markdown
 Pset 1
 
 -Aluno: Caio Eduardo Zanotelli
+
 -Turma: CC1M
+
 -Professor: Abrantes Araújo Silva Filho
+
 -Monitoria:
 
 Descrição do Pset 1
 
 -Usei os SBGD para gerar os scripts.
--Usei o GitHub para encaminhar o pset
+
+-Usei o GitHub para encaminhar o pset.
+
 -Usei o Power Architect para mexer na tabela.
 
 Organização do Pset 1
