@@ -21,7 +21,7 @@ Descrição do Pset 1
 -Usei os SBGD para gerar os scripts.
 
 
--Usei o GitHub para encaminhar o pset.
+-Usei o GitHub para encaminhar o Pset.
 
 
 -Usei o Power Architect para mexer na tabela.
