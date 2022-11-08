@@ -12,8 +12,6 @@ Pset 1
 -Professor: Abrantes Araújo Silva Filho
 
 
--Monitoria:
-
 
 Descrição do Pset 1
 
@@ -25,6 +23,7 @@ Descrição do Pset 1
 
 
 -Usei o Power Architect para mexer na tabela.
+
 
 
 Organização do Pset 1
